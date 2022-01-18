@@ -50,12 +50,12 @@
   "main": ".eslintrc.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/safaahouidi/mywebsite.git"
+    "url": "git+https://github.com/safaahouidi/website.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/safaahouidi/mywebsite/issues"
+    "url": "https://github.com/safaahouidi/website/issues"
   }
 }
